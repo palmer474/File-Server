@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Star Computers Software Repository
 
 You can use the [editor on GitHub](https://github.com/palmer474/uno/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
