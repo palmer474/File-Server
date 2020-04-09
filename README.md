@@ -25,9 +25,10 @@ This site is not intended for public use. Please note these files are password p
 
 ### Operating Systems ISO - DMG
 
+- [Windows 10](https://www.microsoft.com/en-gb/software-download/windows10)
 - [Windows 8.1](https://the-eye.eu/public/MSDN/Windows%208.1/)
 - [Windows 8](https://the-eye.eu/public/MSDN/Windows%208/)
-- [Windwos 7](https://the-eye.eu/public/MSDN/Windows%207/)
+- [Windows 7](https://the-eye.eu/public/MSDN/Windows%207/)
 - [Windows Vista](https://the-eye.eu/public/MSDN/Windows%20Vista/)
 - [Windows XP](https://the-eye.eu/public/MSDN/Windows%20XP/)
 - [macOS 10.15 Catalina](https://the-eye.eu/public/MSDN/Windows%207/)
@@ -37,6 +38,23 @@ This site is not intended for public use. Please note these files are password p
 - [macOS 10.11 El Capitan](http://updates-http.cdn-apple.com/2019/cert/061-41424-20191024-218af9ec-cf50-4516-9011-228c78eda3d2/InstallMacOSX.dmg)
 - [macOS 10.10 Yosemite](http://updates-http.cdn-apple.com/2019/cert/061-41343-20191023-02465f92-3ab5-4c92-bfe2-b725447a070d/InstallMacOSX.dmg)
 - [DistroWatch](https://distrowatch.com/)
+
+### Tools
+- [Malwarebytes](https://www.malwarebytes.com/mwb-download/thankyou/)
+- [HDWIGEN](https://drive.google.com/open?id=1PKS-qzrLIrCSHlPHJdgXiaYtdSVvb-dJ)
+- [Passcape](https://drive.google.com/open?id=1S_o90d865981OWxGRjx8bU9fVhLQdUKO)
+- [DistroWatch](https://distrowatch.com/)
+- [DistroWatch](https://distrowatch.com/)
+- [DistroWatch](https://distrowatch.com/)
+- [DistroWatch](https://distrowatch.com/)
+- [DistroWatch](https://distrowatch.com/)
+- [DistroWatch](https://distrowatch.com/)
+- [DistroWatch](https://distrowatch.com/)
+
+
+
+
+
 
 
 #### [All Files](https://drive.google.com/drive/u/0/my-drive)
