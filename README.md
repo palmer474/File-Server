@@ -15,13 +15,10 @@ This site is not intended for public use. Please note these files are password p
 - [Office 2013-2019 DL Tool](https://thinfi.com/mdix)
 
 ### Mac Applications
-#### Final Cut Pro 
-   - [Final Cut Pro](https://thinfi.com/mdid)
-   - 
+  #### Final Cut Pro 
+   
+   
+  #### Logic Pro
 
 
-
-
-### Large image
-
-![Original](https://github.com/palmer474/File-Server/blob/master/Original.png)
+  #### Others
