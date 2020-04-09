@@ -6,8 +6,8 @@ This site is not intended for personal use. Whenever you commit to this reposito
 
 ### Windows Applications
 
-- **[Photoshop 2020]**(https://drive.google.com/open?id=18VTiUomWLJJzeYW_tTH7iJR1WlJOTPar)
-- **[Premiere Pro 2020]**(https://drive.google.com/open?id=1m2iSiWEBMvKCHrnL51m-MAK6Mk2GKVjh)
-- **[Cubase 5.1.2]**(https://thinfi.com/mdi7)
+- **[Photoshop 2020](https://drive.google.com/open?id=18VTiUomWLJJzeYW_tTH7iJR1WlJOTPar)
+- **[Premiere Pro 2020](https://drive.google.com/open?id=1m2iSiWEBMvKCHrnL51m-MAK6Mk2GKVjh)
+- **[Cubase 5.1.2](https://thinfi.com/mdi7)
 
 ### Mac Applications
