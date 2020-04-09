@@ -1,6 +1,6 @@
-## Star Computers Software Repository
+## Click the button above to go the the full site
 
-This website is mainted by [Star Computers Alicante](https://starcomputers.es) for the primary use of serving files
+This website is maintained by [Star Computers Alicante](https://starcomputers.es) for the primary use of serving files
 
 This site is not intended for public use. Please note these files are password protected by their owner.
 
