@@ -4,30 +4,10 @@ This website is mainted by [Star Computers Alicante](https://starcomputers.es) f
 
 This site is not intended for personal use. Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Windows Applications
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- **[Photoshop 2020]**(https://drive.google.com/open?id=18VTiUomWLJJzeYW_tTH7iJR1WlJOTPar)
+- **[Premiere Pro 2020]**(https://drive.google.com/open?id=1m2iSiWEBMvKCHrnL51m-MAK6Mk2GKVjh)
+- **[Cubase 5.1.2]**(https://thinfi.com/mdi7)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Mac Applications
