@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+title: Approved Software List 
+description: List of Software Aprroved for Windows 10 
 ---
 
-## Welcome to another page
+## Windows 10
 
-_yay_
+_coming-soon_
 
-[back](./)
+[Home](./)
