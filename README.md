@@ -6,15 +6,22 @@ This site is not intended for public use. Please note these files are password p
 
 [Approved Software List](./another-page.html)
 
-### Windows Applications                                          ### Mac Applications
+### Windows Applications                                          
  
-- [Photoshop 2020](https://thinfi.com/mdid)                       - [Final Cut Pro](https://thinfi.com/mdid)    
-- [Premiere Pro 2020](https://thinfi.com/mdif)                    - [Logic Pro](https://thinfi.com/mdif)
-- [Cubase 5.1.2](https://thinfi.com/mdi7)                         - [Compressor](https://thinfi.com/mdi7)
-- [Atomix Virtual DJ](https://thinfi.com/mdij)                    - [Motion](https://thinfi.com/mdij)
+- [Photoshop 2020](https://thinfi.com/mdid)                         
+- [Premiere Pro 2020](https://thinfi.com/mdif)                    
+- [Cubase 5.1.2](https://thinfi.com/mdi7)                         
+- [Atomix Virtual DJ](https://thinfi.com/mdij)                    
 - [Sony Vegas Pro 13](https://thinfi.com/mdik)
 - [Resolume Arena V5.0](https://thinfi.com/mdiv)
 - [Office 2013-2019 DL Tool](https://thinfi.com/mdix)
+
+### Mac Applications
+ 
+- [Final Cut Pro](https://thinfi.com/mdid)
+- [Logic Pro](https://thinfi.com/mdif)
+- [Compressor](https://thinfi.com/mdi7)
+- [Motion](https://thinfi.com/mdij)
 
 
 ### Operating Systems ISO - DMG
