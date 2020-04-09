@@ -16,7 +16,7 @@ This site is not intended for public use. Please note these files are password p
 
 ### Mac Applications
 
-####- Final Cut Pro 
+-#### Final Cut Pro 
   - [Final Cut Pro](https://thinfi.com/mdid)
   - level 2 item
 
