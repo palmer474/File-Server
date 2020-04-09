@@ -1,4 +1,4 @@
-## Click the button above to go the the full site
+## Star Computers Software Repository
 
 This website is maintained by [Star Computers Alicante](https://starcomputers.es) for the primary use of serving files
 
