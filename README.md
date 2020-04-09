@@ -1,7 +1,8 @@
 ## Star Computers Software Repository
 
 This website is maintained by [Star Computers Alicante](https://starcomputers.es) for the primary use of serving files for 
-internal use. **NOT TO BE SHARED
+internal use. **NOT TO BE SHARED** [Aprroved Software List](./another-page.html)
+
 
 This site is not intended for public use. Please note these files are password protected by their owner.
 
@@ -17,4 +18,3 @@ This site is not intended for public use. Please note these files are password p
 
 ### Mac Applications
  
-[Link to another page](./another-page.html)
