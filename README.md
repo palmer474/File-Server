@@ -17,5 +17,4 @@ This site is not intended for public use. Please note these files are password p
 ### Mac Applications
 
 
-## Key figures
-<img src="https://github.com/palmer474/File-Server/blob/master/Original.png" > 
+
