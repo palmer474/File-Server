@@ -1,8 +1,9 @@
 ## Star Computers Software Repository
 
 This website is maintained by [Star Computers Alicante](https://starcomputers.es) for the primary use of serving files for 
-internal use. **NOT TO BE SHARED** [Aprroved Software List](./another-page.html)
+internal use. **NOT TO BE SHARED** 
 
+[Aprroved Software List](./another-page.html)
 
 This site is not intended for public use. Please note these files are password protected by their owner.
 
@@ -18,3 +19,7 @@ This site is not intended for public use. Please note these files are password p
 
 ### Mac Applications
  
+- [Final Cut Pro](https://thinfi.com/mdid)
+- [Logic Pro](https://thinfi.com/mdif)
+- [Compressor](https://thinfi.com/mdi7)
+- [Motion](https://thinfi.com/mdij)
